@@ -1,0 +1,6 @@
+sympy
+Crypto
+libnum
+hashlib
+flask
+
